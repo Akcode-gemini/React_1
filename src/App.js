@@ -7,11 +7,11 @@ import Table from './components/Table';
 function App() {
   return (
     <>
-    <div className="container colo border border-secondary text-center">
-      <Header/>
-      <Counter/>
-      <Table/>
-    </div>
+      <div className="container colo border border-secondary text-center">
+        <Header />
+        <Counter />
+        <Table />
+      </div>
     </>
   );
 }
